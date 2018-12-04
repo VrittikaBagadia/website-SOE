@@ -1,3 +1,5 @@
+// The file that operates the slideshow. It works by hiding every picture unless
+//   it is the selected image in the "mySlides" class.
 var slideIndex = 0;
 showSlides();
 
@@ -11,4 +13,4 @@ function showSlides() {
     if (slideIndex > slides.length) {slideIndex = 1}
     slides[slideIndex-1].style.display = "block";
     setTimeout(showSlides, 2000); // Change image every 2 seconds
-} 
+}
