@@ -1,0 +1,23 @@
+{
+  "name": "website-soe",
+  "version": "1.0.0",
+  "description": "smart lamp website",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VrittikaBagadia/website-SOE.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VrittikaBagadia/website-SOE/issues"
+  },
+  "homepage": "https://github.com/VrittikaBagadia/website-SOE#readme"
+}
