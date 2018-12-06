@@ -20,7 +20,7 @@ function showSlides() {
 function getComments() {
 
     var url = new URL("https://www.googleapis.com/youtube/v3/commentThreads"),
-        params = { part: "snippet,replies", videoId: "qjccnwBmB-w", key: "AIzaSyABu0Ti_y-Gvd0miAfPWsT1OvSFkOPHKeg" }
+        params = { part: "snippet,replies", videoId: "qjccnwBmB-w", key: *ASK ANNA* }
     Object.keys(params).forEach(key => url.searchParams.append(key, params[key]));
     fetch(url)
         .then(function (response) {
