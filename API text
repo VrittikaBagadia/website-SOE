@@ -1,0 +1,12 @@
+{
+ "meta": {
+   "code": 200
+ },
+ "data": [
+   {
+	"id": "Lamp1",
+     "Description": "This is a Green Lamp, full of eco-friendly features that won't take a toll on your electricity bills.
+Not only is it energy efficient, it is also cost efficient. Burning about X W, it is sure to make your life brighter ;)  "
+   }
+ ]
+}
