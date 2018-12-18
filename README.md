@@ -128,5 +128,4 @@ Example response:
     - Tony Sax
     - Emily Pazienza
 
-## Documentation File: 
-    https://docs.google.com/document/d/1WiFJUoHTbSOh1RnHKYGkismYeLR2tLQ-WMArTAol2HM/edit?usp=sharing
+## Documentation File: (https://docs.google.com/document/d/1WiFJUoHTbSOh1RnHKYGkismYeLR2tLQ-WMArTAol2HM/edit?usp=sharing)
