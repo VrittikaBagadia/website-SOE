@@ -113,11 +113,12 @@ localhost:3000/description?json=invalid
 Response type: application/json
 
 Example response:
-```{"error":
-        {"code":400,
-        "description":"Invalid parameters"
-        }
+```
+{"error":
+    {"code":400,
+    "description":"Invalid parameters"
     }
+}
 ```
 
 ## Development Team
